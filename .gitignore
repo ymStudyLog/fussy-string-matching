@@ -24,3 +24,4 @@ yarn-error.log*
 
 # useFussy 수정용 백업(주석포함)
 src/fussy-search/useFussy-copy.js
+node_modules

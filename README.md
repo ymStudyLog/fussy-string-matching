@@ -2,7 +2,13 @@
 
 ### 설치
 
-git clone 
+```
+git clone https://github.com/ymStudyLog/fussy-string-matching.git
+
+npm i
+
+npm start
+```
 
 ### 과정
 
