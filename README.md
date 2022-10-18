@@ -44,5 +44,9 @@ Fuse.js 알고리즘을 정확하게 파악하고 만든 것이 아니라 결과
 
 _(3번 단계 알고리즘이 잘못된 것 같다. 아마도 matching이 들어가는 단어 길이별로 전부 합쳐서 정렬을 해야하는 것 같은데, 정렬 기준에 단어가 전체에서 위치하는 index가 필요한 것 같다.)_
 
+### 관련 팀 프로젝트 
 
+- organization repository : https://github.com/Wanted-Pre-Onboarding-FE-Team5/WMovie5
 
+:eyes: _Go back to github profile to check the other repositories_ :eyes:
+[![github-profile](https://img.shields.io/badge/Github-Profile-blue?style=flat&logo=Git&logoColor=F05032)](https://github.com/ymStudyLog?tab=repositories)
